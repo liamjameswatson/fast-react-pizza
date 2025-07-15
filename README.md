@@ -9,7 +9,7 @@ This repository contains a simple pizza ordering application built for a fiction
 
 ## Usage
 
-To order a pizza, enter your name, choose the pizza(s) you want to order, adding them to a basket. Once done, go to view cart, and order.  This will generate an order number that you can use to keep track of you order. 
+To order a pizza, enter your name, choose the pizza(s) you want to order, adding them to a basket. Once done, go to open cart, and order.  This will generate an order number that you can use to keep track of you order. 
 
 
 ## Features
