@@ -47,7 +47,7 @@ This site can be found at https://deluxe-nasturtium-b276f5.netlify.app/
 
 ## Acknowledgement
 
-This site was built as part of This project is built as part of the Ultimate React Course by Jonas Schmedtmann.
+This site was built as part of the Ultimate React Course by Jonas Schmedtmann.
 
 
 ## License
